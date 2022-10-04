@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DFCBB9BE-3192-480C-A2D2-950DE9B32B7F}|Default">
+  <MonoDevelop.Ide.ItemProperties.OnlineVotingSystem FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineVotingSystem/MainWindow.cs">
+    <Files>
+      <File FileName="OnlineVotingSystem/Program.cs" Line="1" Column="1" />
+      <File FileName="OnlineVotingSystem/MainWindow.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnlineVotingSystem" expanded="True">
+            <Node name="OnlineVotingSystem" expanded="True" selected="True">
+              <Node name="UserInterface" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
